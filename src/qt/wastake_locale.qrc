@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/wastake_bg.qm</file>
+        <file alias="ca">locale/wastake_ca.qm</file>
+        <file alias="cs">locale/wastake_cs.qm</file>
+        <file alias="da">locale/wastake_da.qm</file>
+        <file alias="de">locale/wastake_de.qm</file>
+        <file alias="en">locale/wastake_en.qm</file>
+        <file alias="en_US">locale/wastake_en_US.qm</file>
+        <file alias="es">locale/wastake_es.qm</file>
+        <file alias="fi">locale/wastake_fi.qm</file>
+        <file alias="fr_FR">locale/wastake_fr_FR.qm</file>
+        <file alias="it">locale/wastake_it.qm</file>
+        <file alias="ja">locale/wastake_ja.qm</file>
+        <file alias="ko_KR">locale/wastake_ko_KR.qm</file>
+        <file alias="nl">locale/wastake_nl.qm</file>
+        <file alias="pl">locale/wastake_pl.qm</file>
+        <file alias="pt">locale/wastake_pt.qm</file>
+        <file alias="pt_BR">locale/wastake_pt_BR.qm</file>
+        <file alias="ro_RO">locale/wastake_ro_RO.qm</file>
+        <file alias="ru">locale/wastake_ru.qm</file>
+        <file alias="sk">locale/wastake_sk.qm</file>
+        <file alias="sv">locale/wastake_sv.qm</file>
+        <file alias="tr">locale/wastake_tr.qm</file>
+        <file alias="uk">locale/wastake_uk.qm</file>
+        <file alias="zh_CN">locale/wastake_zh_CN.qm</file>
+        <file alias="zh_TW">locale/wastake_zh_TW.qm</file>
+    </qresource>
+</RCC>

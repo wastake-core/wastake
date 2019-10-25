@@ -1,0 +1,26 @@
+# /etc/conf.d/wastaked: config file for /etc/init.d/wastaked
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/wastake/wastake.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/wastaked"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/wastaked.pid"
+
+# Where to write wastaked data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/wastaked"
+
+# User and group to own wastaked process
+#BITCOIND_USER="wastake"
+#BITCOIND_GROUP="wastake"
+
+# Path to wastaked executable
+#BITCOIND_BIN="/usr/bin/wastaked"
+
+# Nice value to run wastaked under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

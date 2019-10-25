@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=wastake
+Comment=WSK P2P Cryptocurrency
+Exec=wastake-qt %u
+Terminal=false
+Type=Application
+Icon=wastake128
+MimeType=x-scheme-handler/wastake;
+Categories=Office;Finance;
+Name[ru]=wastake-qt.desktop.desktop
